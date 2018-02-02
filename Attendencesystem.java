@@ -31,7 +31,7 @@ public class Attendencesystem {
 				System.out.println("Attendence:");
 				S = in.nextLine();
 				bufferedWriter.write(S);
-				System.out.println("Present");
+				System.out.println("Student Present");
 				}
 				else 
 				{
@@ -41,7 +41,7 @@ public class Attendencesystem {
 				System.out.println("Attendence:");
 				A = in.nextLine();
 				bufferedWriter.write(A);
-				System.out.println("Absent");
+				System.out.println("Student Absent");
 				}
 				
 				
